@@ -1,0 +1,16 @@
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\bin\Debug\SpaceInvadersGame.exe.config
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\bin\Debug\SpaceInvadersGame.exe
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\bin\Debug\SpaceInvadersGame.pdb
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame.csproj.AssemblyReference.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\MainWindow.g.cs
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\App.g.cs
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame_MarkupCompile.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame_MarkupCompile.lref
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\MainWindow.baml
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame.g.resources
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame.Properties.Resources.resources
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame.csproj.GenerateResource.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame.csproj.CoreCompileInputs.cache
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame.exe
+C:\Users\kenny\OneDrive\Desktop\Repos\SpaceInvadersGame\SpaceInvadersGame\obj\Debug\SpaceInvadersGame.pdb
